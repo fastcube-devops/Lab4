@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repository:repository xmlns:Repository="http://www.tibco.com/xmlns/repo/types/2002">
+    <name name="libLog">
+        <version>4</version>
+        <author>Fastcube-2021</author>
+        <fileLocation>C:\Users\Dev\Documents\LABS\projlibLog\liblog.projlib</fileLocation>
+        <resources>/ProcessDefinitions/Logging.process,/Schemax/loggingSchema.xsd</resources>
+    </name>
+</Repository:repository>

@@ -1,0 +1,37 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<repository xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xmlns = "http://www.tibco.com/xmlns/repo/types/2002">
+	<globalVariables>
+		<globalVariable>
+			<name>jdbcPassword</name>
+			<value>#!tnAKkpBWJ9dtMli2nr/xQV1tRbmWjzjy</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>Password</type>
+			<modTime>1618307963127</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>jdbcUrl</name>
+			<value>jdbc:oracle:thin:@localhost:1521:xe</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1618308023377</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>jdbcUser</name>
+			<value>user03</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1618307963111</modTime>
+		</globalVariable>
+		<globalVariable>
+			<name>nomMachine</name>
+			<value>localhost</value>
+			<deploymentSettable>true</deploymentSettable>
+			<serviceSettable>false</serviceSettable>
+			<type>String</type>
+			<modTime>1618307963119</modTime>
+		</globalVariable>
+	</globalVariables>
+</repository>
